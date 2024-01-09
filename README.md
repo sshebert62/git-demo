@@ -6,4 +6,4 @@ This is the first file in this repo.
 
 The quick brown fox ran fast.
 
-All good things come together.
+Website contents.
